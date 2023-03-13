@@ -6,4 +6,5 @@ We will move through following phases in this practice course:
  - Patterns with Arrays
  - Functions & Classes
  - Inheritence
- - github repo and code push
+ - github staging the changes (% git status > git commit -m "Enter text")
+ - git push (% git push)
